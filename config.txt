@@ -1,0 +1,10 @@
+autoport: True
+port: COM3
+type: fascia
+baud: 115200
+p1: Active
+p2: False
+p3: False
+p4: False
+p5: False
+onetouch = False
